@@ -1,6 +1,6 @@
 # Java PIL - Trabajo Práctico - Javier Emilio Luna
 ## Documentación
-###Temas y características del lenguaje Java usados:
+### Temas y características del lenguaje Java usados:
 En el desarrollo de la app se utilizaron los conceptos pertenecientes a los módulos I a IV.
 - **POO** (encapsulamiento, herencia, composición, polimorfismo, abstracción, clases abtractas,concretas y estáticas, métodos de instancia y estáticos).
 - **ArrayList** como colección de datos para simplificar la manipulación de los objetos almacenados en ella.
@@ -8,7 +8,7 @@ En el desarrollo de la app se utilizaron los conceptos pertenecientes a los mód
 - **Bucles** (for, foreach, while).
 - **Clase Scanner** para el ingreso por consola de los datos y poder interactuar con el programa.
 
-##GUÍA DE USUARIO - SISTEMA DE GESTIÓN 'CINEMAX'
+## GUÍA DE USUARIO - SISTEMA DE GESTIÓN 'CINEMAX'
 **1. INICIO - MENÚ PRINCIPAL** <br>
 Al ingresar al sistema se muestra la lista de opciones disponibles: <br>
 ```
@@ -80,6 +80,7 @@ Aquí se muestra la lista de reportes disponibles, los cuales incluyen informaci
   
 Para continuar operando y regresar al menú principal ingrese el comando "y" o "Y", en cambio si desea cerrar el programa
 ingrese el comando "n" ó "N".
+
 --------------------
 **3. NAVEGANDO POR LOS SUBMENÚS - GESTIÓN EMPLEADOS**
 ```
