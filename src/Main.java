@@ -33,7 +33,7 @@ public class Main {
         String textoInicio = "SISTEMA DE GESTIÓN 'CINEMAX' \n Seleccione la acción deseada (de acuerdo al nro. de la lista) o presione 0 (cero) para salir: \n " +
                 "1 - VER PELÍCULAS CARGADAS \n 2 - AGREGAR PELÍCULA \n 3 - EDITAR PELÍCULA \n 4 - ELIMINAR PELÍCULA \n 5 - REPORTES SOBRE PELÍCULAS\n" +
                 "---------------------------- \n 6 - VER LISTA DE EMPLEADOS \n 7 - AGREGAR EMPLEADO \n " +
-                "8 - MODIFICAR EMPLEADO \n 9 - ELIMINAR EMPLEADO \n 10 - REPORTES SOBRE EMPLEADOS";
+                "8 - MODIFICAR EMPLEADO \n 9 - ELIMINAR EMPLEADO \n 10 - REPORTES SOBRE EMPLEADOS \nIngrese opción: ";
         String textoConsultaFinal = "¿DESEA REALIZAR OTRA ACCIÓN? Y = SI , N = NO";
         String textoListadoPeliculas = "Listado de Películas Cargadas: \n";
         String textoListadoEmpleados = "Listado de Empleados Cargados: \n";
