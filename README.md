@@ -2,7 +2,7 @@
 ## Documentación
 ### Temas y características del lenguaje Java usados:
 
-### - PRIMERA ENTREGA
+###- PRIMERA ENTREGA
 En el desarrollo de la primera parte de ésta app se utilizaron los conceptos pertenecientes a los módulos I a IV.
 - **POO** (encapsulamiento, herencia, composición, polimorfismo, abstracción, clases abtractas,concretas y estáticas, métodos de instancia y estáticos).
 - **ArrayList** como colección de datos para simplificar la manipulación de los objetos almacenados en ella.
@@ -10,8 +10,8 @@ En el desarrollo de la primera parte de ésta app se utilizaron los conceptos pe
 - **Bucles** (for, foreach, while).
 - **Clase Scanner** para el ingreso por consola de los datos y poder interactuar con el programa.
 
-### - SEGUNDA ENTREGA
-- Se modificó el funcionamiento interno de la app. No se agregaron nuevas funciones por lo que el modo de usar la aplicación se mantiene. <br>
+###- SEGUNDA ENTREGA
+- Se modificó el funcionamiento interno de la app. No se agregaron nuevas funciones por lo que el modo de uso se mantiene. <br>
 - Se agregó **persistencia de datos** utilizando H2 como sistema administrador de base de datos embebido en la aplicación. <br>
 - Se agregaron las correciones a la primera entrega.
 
